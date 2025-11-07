@@ -3052,7 +3052,7 @@
 				"edgecolor": 1.0
 			},
 			"tree_item": "Filter/Fill/To Random Gray",
-			"type": "fill_to_random_grey2"
+			"type": "fill_to_random_grey3"
 		},
 		{
 			"display_name": "To Random Color",
